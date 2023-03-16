@@ -11,4 +11,5 @@ Cloning into directory
 1. Copy: https://github.com/jeongwoongc/Recsys.git
 2. In VScode terminal locate directory of choice
 3. type `git clone https://github.com/jeongwoongc/Recsys.git`
+4. `pip install -r requirements.txt`
  
