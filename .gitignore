@@ -1,1 +1,4 @@
 ml-latest
+data
+item_vecs.csv
+movie_content.csv
